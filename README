@@ -3,8 +3,8 @@ Performing analysis on Kickstarter data to uncover trends
 
 New descriptive changes along with charts highlighting features of the project findings
 
-![](images/Chart.png)
+![Chart](https://raw.githubusercontent.com/JonathanBrown003/kickstarter-analysis/main/Images/Chart.png)
 The Theater category outperformed other categories for total successful outcomes. More fundings should be directed to Theater productions. 
 
-![](images/Outcomes%20Based%20on%20Launch%20Dates.png)
+![Outcomes](https://raw.githubusercontent.com/JonathanBrown003/kickstarter-analysis/main/Images/Outcomes%20Based%20on%20Launch%20Dates.png)
 The months, May and June, were outperforming months when it came to successful outcomes. 
