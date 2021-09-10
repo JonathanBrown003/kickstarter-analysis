@@ -55,3 +55,5 @@ The more fitting indicator would be the percentage of successful campaigns in re
 I would create an additional pivot table for Launch Dates Based on Outcome to show the percentage of successful campaigns by launch month. We could then create a line chart to plot the data points for each month to immediately spot trends in the data. This would be a more efficient use of this data (percentage rather than total number) for reasons I highlighted above. 
 
 For Outcomes Based on Goals, I would create a bar chart to show the goal on the X-axis and percentage successful on the Y-axis. This would help visualize the percentage differences between successful campaigns. You could then drill down on each goal to determine reasons for high percentage success rate and the lower percentage success rates. For instance, there’s an unusual success rate for  higher goal campaigns between $35,000 to $39,999 and $40,000 to $44,999.
+
+Other useful advice for Louise is included in this blog: [Raising money for an arts organization](https://mcahalane.com/raising-money-for-an-arts-organization/)
