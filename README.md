@@ -1,5 +1,7 @@
 # Kickstarting with Excel
 
+![Theater_Image](https://raw.githubusercontent.com/JonathanBrown003/kickstarter-analysis/main/Resources/Theater_Image.jpg)
+
 ## Overview of Project
 
 Louise would like to determine the efficacy of campaigns from past data in relation to their respective launch dates and funding goals. The main category and subcategory analyzed in this project were “theater” and “plays,” respectively. Louise will use this analysis for future determinations of fundraising efforts.  
@@ -26,7 +28,9 @@ At first glance, 0 campaigns were canceled for the play subcategory in the time 
 
 One particular challenge was the embedding of images in the README.md section of GitHub. I tried numerous google searches for clarification and used the exact syntax provided in the module but the image wouldn’t embed but instead was a clickable link to view on a separate tab. I finally figured it out by clicking on the particular image in the "resources" folder that I wanted to embed then copying the image link. The general navigation through GitHub for a new user is challenging but this should subside with experience. 
 
-The nesting of functions within Excel has always brought challenges for me personally but the class demonstrations and breakout sessions greatly improved my understanding of how to execute nested formulas.  
+The nesting of functions within Excel has always brought challenges for me personally but the class demonstrations and breakout sessions greatly improved my understanding of how to execute nested formulas. 
+
+This Help page was helpful in working through nested formulas: [Microsoft Help - Nested Formulas](https://support.microsoft.com/en-us/office/use-nested-functions-in-a-formula-9d7c966d-6030-4cd6-a052-478d7d844166)
 
 ## Results
 
